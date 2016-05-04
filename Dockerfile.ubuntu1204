@@ -1,0 +1,2 @@
+FROM onazar/ubuntu1204-omnibus-base-builder
+

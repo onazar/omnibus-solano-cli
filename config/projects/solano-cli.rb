@@ -1,4 +1,4 @@
-name "solano"
+name "solano-cli"
 maintainer "Solano Labs"
 homepage "https://github.com/solanolabs/solano.git"
 
@@ -9,7 +9,7 @@ install_dir "#{default_root}/#{name}"
 build_version "1.28.0"
 
 # Solano dependency/component
-dependency "solano"
+dependency "solano-cli"
 
 # Version manifest file
 dependency "version-manifest"

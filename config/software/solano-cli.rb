@@ -1,4 +1,4 @@
-name "solano"
+name "solano-cli"
 default_version "1.28.0"
 
 dependency "ruby"
